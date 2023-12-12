@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x77ar6qujyduf11n?svg=true)](https://ci.appveyor.com/project/ivangol739/react-5-2)
+
 ===
 
 Вы работаете в стартапе, который решил тягаться с самим Яндексом в части предоставления контента. Это, конечно же, шутка, но задача нешуточная.
